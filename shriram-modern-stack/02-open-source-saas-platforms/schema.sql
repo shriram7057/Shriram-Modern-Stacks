@@ -1,0 +1,1 @@
+CREATE TABLE tenants (id SERIAL PRIMARY KEY, name TEXT);
