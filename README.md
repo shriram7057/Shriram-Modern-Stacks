@@ -1,45 +1,53 @@
 <!-- ===================================================== -->
 <!-- Shriram – Modern Stack Engineering Portfolio -->
-<!-- AI | Automation | SaaS | DevOps | TypeScript -->
 <!-- ===================================================== -->
-<p align="center">
-  <strong>Modern Stack Engineering Portfolio</strong><br/>
-  AI • Automation • SaaS • DevOps • TypeScript
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Agents-blue" />
-  <img src="https://img.shields.io/badge/Automation-n8n-orange" />
-  <img src="https://img.shields.io/badge/SaaS-Architecture-success" />
-  <img src="https://img.shields.io/badge/TypeScript-Typed--Systems-blue" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-green" />
-</p>
+<!-- HEADER -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr>
+    <td align="center">
+      <strong>Modern Stack Engineering Portfolio</strong><br/>
+      AI • Automation • SaaS • DevOps • TypeScript
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI-Agents-blue" />
+      <img src="https://img.shields.io/badge/Automation-n8n-orange" />
+      <img src="https://img.shields.io/badge/SaaS-Architecture-success" />
+      <img src="https://img.shields.io/badge/TypeScript-Typed--Systems-blue" />
+      <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black" />
+      <img src="https://img.shields.io/badge/Status-Actively%20Building-green" />
+    </td>
+  </tr>
+</table>
 
-<hr/>
+<br/>
 
-<h2>🚀 About This Repository</h2>
+<!-- ABOUT -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">🚀 About This Repository</th></tr>
+  <tr>
+    <td>
+      This repository is my <b>personal engineering portfolio</b>.
+      It showcases how I think, learn, and build using
+      <b>modern software engineering practices</b>.
+      <br/><br/>
+      Instead of tutorials, this repository focuses on:
+      <ul>
+        <li>Real code and artifacts</li>
+        <li>System-level thinking</li>
+        <li>Automation-first mindset</li>
+        <li>Awareness of industry trends</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p>
-This repository is my <strong>personal engineering portfolio</strong>.
-It showcases how I think, learn, and build using <strong>modern software engineering practices</strong>.
-</p>
+<br/>
 
-<p>
-Instead of tutorials, this repo focuses on:
-</p>
-
-<ul>
-  <li>Real code and artifacts</li>
-  <li>System-level thinking</li>
-  <li>Automation-first mindset</li>
-  <li>Awareness of industry trends</li>
-</ul>
-
-<hr/>
-
-<h2>📂 Repository Structure</h2>
-
+<!-- STRUCTURE -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">📂 Repository Structure</th></tr>
+  <tr>
+    <td>
 <pre>
 01-ai-agents-autonomous-tooling/
 02-open-source-saas-platforms/
@@ -48,154 +56,228 @@ Instead of tutorials, this repo focuses on:
 05-automation-github-actions/
 06-awesome-curated-lists/
 </pre>
+      Each folder represents a <b>key area of modern software development</b>
+      and contains real artifacts — not just documentation.
+    </td>
+  </tr>
+</table>
 
-<p>
-Each folder represents a <strong>key area of modern software development</strong>
-and contains real files, not just documentation.
-</p>
+<br/>
 
-<hr/>
+<!-- AI AGENTS -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">🤖 AI Agents & Autonomous Tooling</th></tr>
+  <tr>
+    <td>
+      Explores <b>AI agents that can reason, decide, and act</b>.
+      <ul>
+        <li>Autonomous agent loops (Python)</li>
+        <li>Decision-based execution flows</li>
+        <li>Foundations for AI copilots</li>
+      </ul>
+      Focus: <b>How intelligent systems operate</b>, not just API calls.
+    </td>
+  </tr>
+</table>
 
-<h2>🤖 AI Agents & Autonomous Tooling</h2>
+<br/>
 
-<p>
-This section explores <strong>AI agents that can reason, decide, and act</strong>.
-</p>
+<!-- SAAS -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">🧩 Open-Source SaaS Platforms</th></tr>
+  <tr>
+    <td>
+      Focused on <b>how real SaaS products are built</b>.
+      <ul>
+        <li>Multi-tenant database schemas</li>
+        <li>SaaS architecture fundamentals</li>
+        <li>Subscription-ready thinking</li>
+      </ul>
+      Focus: <b>Scalable, real-world systems</b>.
+    </td>
+  </tr>
+</table>
 
-<p>
-Includes:
-</p>
+<br/>
 
-<ul>
-  <li>Autonomous agent loop (Python)</li>
-  <li>Decision-based execution flow</li>
-  <li>Foundations for AI copilots</li>
-</ul>
+<!-- AUTOMATION -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">⚙️ Workflow & Productivity Automation</th></tr>
+  <tr>
+    <td>
+      Automation as a core engineering discipline.
+      <ul>
+        <li>n8n workflow artifacts</li>
+        <li>Automation-first mindset</li>
+        <li>Replacing manual work with systems</li>
+      </ul>
+      Focus: <b>Building systems that work for you</b>.
+    </td>
+  </tr>
+</table>
 
-<p>
-Focus: <strong>How intelligent systems think and operate</strong>, not just API calls.
-</p>
+<br/>
 
-<hr/>
+<!-- TYPESCRIPT -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">🟦 TypeScript & Typed Ecosystems</th></tr>
+  <tr>
+    <td>
+      Reflects modern, production-grade development.
+      <ul>
+        <li>Typed APIs</li>
+        <li>Type safety at scale</li>
+        <li>Modern TypeScript patterns</li>
+      </ul>
+      Focus: <b>Industry-standard engineering practices</b>.
+    </td>
+  </tr>
+</table>
 
-<h2>🧩 Open-Source SaaS Platforms</h2>
+<br/>
 
-<p>
-This section focuses on <strong>how real SaaS products are built</strong>.
-</p>
+<!-- DEVOPS -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">🔁 Automation & GitHub Actions</th></tr>
+  <tr>
+    <td>
+      Demonstrates DevOps fundamentals.
+      <ul>
+        <li>CI pipelines with GitHub Actions</li>
+        <li>Delivery automation</li>
+        <li>Reliable software workflows</li>
+      </ul>
+      Focus: <b>Shipping code reliably</b>.
+    </td>
+  </tr>
+</table>
 
-<ul>
-  <li>Multi-tenant database schema</li>
-  <li>SaaS design fundamentals</li>
-  <li>Subscription-ready thinking</li>
-</ul>
+<br/>
 
-<p>
-Focus: <strong>Scalable, real-world architectures</strong>.
-</p>
+<!-- CURATED -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">📚 Awesome Curated Lists</th></tr>
+  <tr>
+    <td>
+      Ecosystem awareness matters.
+      <ul>
+        <li>AI tools</li>
+        <li>SaaS platforms</li>
+        <li>Automation frameworks</li>
+        <li>TypeScript ecosystem</li>
+      </ul>
+      Focus: <b>Knowing what to use — and why</b>.
+    </td>
+  </tr>
+</table>
 
-<hr/>
+<br/>
 
-<h2>⚙️ Workflow & Productivity Automation</h2>
+<!-- WHY -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr><th align="left">🎯 Why I Built This</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>AI + Automation define the future</li>
+        <li>Engineers should think in systems</li>
+        <li>Clean structure matters</li>
+        <li>Trends matter only if you can implement them</li>
+      </ul>
+      This repository reflects that mindset.
+    </td>
+  </tr>
+</table>
 
-<p>
-Automation is a core engineering skill.
-</p>
+<br/>
 
-<ul>
-  <li>n8n workflow artifacts</li>
-  <li>System automation mindset</li>
-  <li>Replacing manual work with processes</li>
-</ul>
+<!-- FOOTER -->
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+  <tr>
+    <td align="center">
+      <b>Built with curiosity. Designed for scale. Focused on the future.</b>
+    </td>
+  </tr>
+</table>
 
-<p>
-Focus: <strong>Building systems that work for you</strong>.
-</p>
+<!-- CONNECT -->
+<h3>🤝 Connect with Me</h3>
 
-<hr/>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th align="center">Platform</th>
+    <th align="center">Profile</th>
+  </tr>
 
-<h2>🟦 TypeScript & Typed Ecosystems</h2>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <a href="https://github.com/shriram7057" target="_blank">
+        https://github.com/shriram7057
+      </a>
+    </td>
+  </tr>
 
-<p>
-This section reflects modern, production-grade development.
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+      <br/>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/Shriram%20Lahane" target="_blank">
+        https://linkedin.com/in/Shriram Lahane
+      </a>
+    </td>
+  </tr>
 
-<ul>
-  <li>Typed APIs</li>
-  <li>Type safety & scalability</li>
-  <li>Modern TypeScript patterns</li>
-</ul>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
+      <br/>Kaggle
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/shriramlahane" target="_blank">
+        https://kaggle.com/shriramlahane
+      </a>
+    </td>
+  </tr>
 
-<p>
-Focus: <strong>Industry-standard development practices</strong>.
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+      <br/>Instagram
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/pvt.shree_01" target="_blank">
+        https://instagram.com/pvt.shree_01
+      </a>
+    </td>
+  </tr>
 
-<hr/>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+      <br/>LeetCode
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/shriram-01" target="_blank">
+        https://leetcode.com/shriram-01
+      </a>
+    </td>
+  </tr>
 
-<h2>🔁 Automation & GitHub Actions</h2>
-
-<p>
-This section demonstrates DevOps fundamentals.
-</p>
-
-<ul>
-  <li>CI pipelines using GitHub Actions</li>
-  <li>Automation in delivery</li>
-  <li>Reliable software workflows</li>
-</ul>
-
-<p>
-Focus: <strong>Shipping code reliably</strong>.
-</p>
-
-<hr/>
-
-<h2>📚 Awesome Curated Lists</h2>
-
-<p>
-Understanding the ecosystem is as important as writing code.
-</p>
-
-<ul>
-  <li>AI tools</li>
-  <li>SaaS platforms</li>
-  <li>Automation frameworks</li>
-  <li>TypeScript ecosystem</li>
-</ul>
-
-<p>
-Focus: <strong>Knowing what to use and why</strong>.
-</p>
-
-<hr/>
-
-<h2>🎯 Why I Built This</h2>
-
-<p>
-I believe:
-</p>
-
-<ul>
-  <li>AI + Automation define the future</li>
-  <li>Engineers should think in systems</li>
-  <li>Clean structure matters</li>
-  <li>Trends matter only if you can implement them</li>
-</ul>
-
-<p>
-This repository reflects that mindset.
-</p>
-🤝 Let's Connect!
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heyy_shree_01/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lahaneshr7f7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
-
-</div>
-<p align="center">
-  <strong>Built with curiosity. Designed for scale. Focused on the future.</strong>
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="70"/>
+      <br/>GeeksforGeeks
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/shriram01" target="_blank">
+        https://auth.geeksforgeeks.org/user/shriram01
+      </a>
+    </td>
+  </tr>
+</table>
